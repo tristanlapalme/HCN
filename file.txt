@@ -1,4 +1,6 @@
 A new file.
 
 from head
+and
+Modified in branch.
 
